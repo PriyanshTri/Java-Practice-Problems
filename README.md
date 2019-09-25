@@ -5,30 +5,35 @@ Practice Program
 1. Write a Program to display “Hello World” on the output screen.
 
 2. Write a Program to display “Welcome to Java 12” on the output screen.
-  Output : Welcome to Java 12
+
+  		Output: Welcome to Java 12
 
 3. Write a Program to display “Good Evening, Welcome to Programming” on the output screen.
-  Output : 	Good Evening,
-            Welcome to  Programming
+
+  		Output: 	Good Evening,
+            		Welcome to  Programming
             
 4. Write a Program to print “enter an integer” on the output screen.
-    Output: enter an integer
+
+    	Output: enter an integer
     
 5. Write a Program to print “hello world!!!!” on the output screen.
-    Output: hello world!!!!
+
+    	Output: hello world!!!!
     
 6. Write a Program to print “enter your name” on the output screen.
-    Output: enter your name
+
+    	Output: enter your name
 
 ### Variable Declaration, initialization & displaying value on the output screen
 1. Write a Program to declare and initialize two variable of type integer and print there value on the output screen.
-  Hint : 	
-  int input1 = 20;
-  int input2 = 30;
+  	Hint : 	
+  	int input1 = 20;
+  	int input2 = 30;
 	
-  Output:	input1 = 20;
+  	Output:	input1 = 20;
 
-  input2 = 30;
+  	input2 = 30;
     
 2. Write a Program to declare variables of all 8 primitive type, initialize and print them on output screen.
 
