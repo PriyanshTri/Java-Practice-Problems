@@ -58,9 +58,13 @@ Practice Program
 6. Write a Program to declare and initialize two double type variable. Print the result of addition of these variables on the output screen
 
       Hint: double input1 = 3.14;
+      
       double input2 = 5.0;
+      
       Output :
+      
       the sum of two variables = 8.14
+      
       
 7. Write a Program to solve the expression :
 
