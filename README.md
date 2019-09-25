@@ -40,16 +40,19 @@ Practice Program
 3. Write a Program to solve the following expression:
 
       2 + 3 – 5 *2 /5; 
-      store the result in a variable and print it on the output screen.
       
+      store the result in a variable and print it on the output screen.
+   
 4. Write a Program to solve the expression :
 
       22 / 7 ; 
+      
       store the result in a variable and print it on the output screen.
       
 5. Write a Program to solve the expression :
 
       23 % 10 ; 
+      
       store the result in a variable and print it on the output screen.
       
 6. Write a Program to declare and initialize two double type variable. Print the result of addition of these variables on the output screen
@@ -62,11 +65,13 @@ Practice Program
 7. Write a Program to solve the expression :
 
       -2 % 5 ;
+      
       store the result in a variable and print it on the output screen.
       
 8. Write a Program to solve the expression :
 
       -2 % -5 ; 
+      
       store the result in a variable and print it on the output screen.
       
 9. Write a Program to solve the expression :
@@ -81,11 +86,14 @@ Practice Program
 11. Write a Program to solve the expression :
 
       23.0 / 10 ; 
+      
       store the result in a variable and print it on the output screen.
       
 12. Write a Program to solve the expression :
 
-      23 / 10.0 ; store the result in a variable and print it on the output screen.
+      23 / 10.0 ; 
+      
+      store the result in a variable and print it on the output screen.
       
 13. Write a Program to declare variable to store your name (String name), mobile no and email (String email).
 
